@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm devbaoo
 
-Welcome to my GitHub profile! I'm devbaoo, a student of FPT university with a passion for programming, machine learning, web development 
+🎉 Welcome to my GitHub profile! 👋 I'm **devbaoo**, a student at FPT University with a passion for:
+- 💻 Programming
+- 🤖 Machine Learning
+- 🌐 Web Development
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
