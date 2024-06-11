@@ -25,21 +25,7 @@ Welcome to my GitHub profile! I'm devbaoo, a student of FPT university with a pa
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
 
-### [Project Name 1](project URL)
-- **Description:** [Short description of the project]
-- **Technologies Used:** [List of technologies used]
-
-### [Project Name 2](project URL)
-- **Description:** [Short description of the project]
-- **Technologies Used:** [List of technologies used]
-
-## 📚 Blog Posts & Articles
-
-- [Blog Post 1](blog post URL)
-- [Blog Post 2](blog post URL)
-- [Blog Post 3](blog post URL)
 
 ## 🤝 Let's Connect!
 
@@ -49,4 +35,4 @@ I am always looking for opportunities to learn and collaborate with others. Feel
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/yourusername)
+⭐️ From [devbaoo](https://github.com/devbaoo)
