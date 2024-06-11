@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I'm devbaoo, a student of FPT university with a pa
 
 I am always looking for opportunities to learn and collaborate with others. Feel free to reach out if you want to discuss projects or just have a chat!
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=rogue)
 
 ---
 
