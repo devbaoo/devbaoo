@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋, I'm devbaool</h1>
 <h3 align="center">A passionate Programmer from VietNam</h3>
 
-
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=devbaoo&label=Profile%20views&color=0e75b6&style=flat" alt="devbaoo" /> 
+ 
  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
  <a target="_blank">
