@@ -6,8 +6,8 @@
 - 🌐 Web Development
 
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=devbaoo&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/devbaoo?style=social)
 
 ## 📫 How to Reach Me
 
