@@ -2,7 +2,9 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm devbaool</h1>
-<h3 align="center">A passionate Programmer from VietNam</h3>
+<div align= "center">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=329A2E&center=true&vCenter=true&width=435&lines=%F0%9F%8E%89+Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
+</div>
 
  
  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
@@ -20,7 +22,7 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-🎉 Welcome to my GitHub profile! 👋 I'm **devbaoo**, a student at FPT University
+I'm **devbaoo**, a student at FPT University, about me:
 - 🔭 I’m currently working on 🌐**Web Development**
 - 🌱 I’m currently learning **Angular and C#**
 - 👯 I’m looking to collaborate on 🌐**Web Development**
