@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm devbaoo
  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
+ <a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
+
 🎉 Welcome to my GitHub profile! 👋 I'm **devbaoo**, a student at FPT University with a passion for:
 - 💻 Programming
 - 🤖 Machine Learning
