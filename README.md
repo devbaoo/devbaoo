@@ -13,6 +13,12 @@
 - 💬 Ask me about Anything [here](https://www.facebook.com/DevBaoo.712)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=devbaoo" alt="smir45" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/devbaoo?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/devbaoo?label=Stars" alt="Total Stars">
+</p>
+
 ## 📫 How to Reach Me
 
 - Email: baockse172296@fpt.edu.vn
