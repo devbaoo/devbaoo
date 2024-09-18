@@ -1,4 +1,12 @@
-# Hi there! 👋 I'm devbaoo
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm devbaool</h1>
+<h3 align="center">A passionate Programmer from VietNam</h3>
+
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=devbaoo&label=Profile%20views&color=0e75b6&style=flat" alt="devbaoo" /> 
  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
  <a target="_blank">
