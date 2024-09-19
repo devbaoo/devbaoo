@@ -55,9 +55,9 @@ I'm **devbaoo**, a student at FPT University, about me:
 
 ## 🛠️ Technologies & Tools I Use
 
-- **Programming Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-- **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Programming Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=dd0031)
+- **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717) ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase) ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
 
 
 ## 📈 GitHub Stats
