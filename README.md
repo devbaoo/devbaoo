@@ -33,7 +33,7 @@ I'm **devbaoo**, a student at FPT University, about me:
 - 😄 Pronouns : **He/Him/His**
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=devbaoo" alt="smir45" />
+  <img src="https://komarev.com/ghpvc/?username=devbaoo" alt="devbaoo" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/devbaoo?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/devbaoo?label=Stars" alt="Total Stars">
 </p>
