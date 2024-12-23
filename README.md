@@ -76,7 +76,7 @@ I'm **devbaoo**, a student at FPT University, about me:
 ## 🤝 Let's Connect!
 
 I am always looking for opportunities to learn and collaborate with others. Feel free to reach out if you want to discuss projects or just have a chat!
-
+I love everyone!
 
 ---
 
