@@ -85,13 +85,15 @@ I'm **devbaoo**, a student at FPT University, about me:
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=devbaoo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbaoo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=devbaoo&theme=dracula&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
   <br>
   <br>
 </p>
 
 
- 
+## More information about me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/devbaoo)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://devbaoo.vercel.app)
 
 
 ## 🤝 Let's Connect!
