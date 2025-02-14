@@ -85,10 +85,10 @@ I'm **devbaoo**, a student at FPT University, about me:
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=devbaoo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbaoo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devbaoo&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br>
   <br>
 </p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
