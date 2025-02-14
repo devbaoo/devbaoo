@@ -90,10 +90,12 @@ I'm **devbaoo**, a student at FPT University, about me:
 </p>
 
 
-## More information about me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/devbaoo)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://devbaoo.vercel.app)
+## ℹ️ More information about me
+
+- [LinkedIn](http://linkedin.com/in/devbaoo)
+- [Personal Website](https://devbaoo.vercel.app)
+
 
 
 ## 🤝 Let's Connect!
